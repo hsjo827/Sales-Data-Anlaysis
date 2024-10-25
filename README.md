@@ -28,12 +28,12 @@
 
 <br/>
 
-![슬라이드0006](https://github.com/hsjo827/KMU_DNA/assets/133327403/2edf974c-11a9-4d15-8c5a-e27207fe626a)
-![슬라이드0007](https://github.com/hsjo827/KMU_DNA/assets/133327403/4de792d8-3183-43d9-8790-e756bdb792d5)
-![슬라이드0008](https://github.com/hsjo827/KMU_DNA/assets/133327403/a98e0ddc-a487-4dc5-99f3-4c45edf787d2)
-![슬라이드0010](https://github.com/hsjo827/KMU_DNA/assets/133327403/54c85b5b-9677-4218-8524-2a406a4c3a49)
-![슬라이드0011](https://github.com/hsjo827/KMU_DNA/assets/133327403/f3c36078-56c4-4e9c-b49b-9215bbdf492b)
-![슬라이드0012](https://github.com/hsjo827/KMU_DNA/assets/133327403/9b5c0833-9cbc-4ef9-989c-323afc70acfa)
+![2-1](https://github.com/user-attachments/assets/43c85e93-2b30-4bbc-a4b4-848fac04fa03)
+![2-2](https://github.com/user-attachments/assets/bb384966-ed64-49f2-a9a6-4e98d3471e0c)
+![2-3](https://github.com/user-attachments/assets/c4c30969-1e65-43e1-88bc-725ba8f80a94)
+![2-4](https://github.com/user-attachments/assets/f9af977e-10cd-43ad-80de-59383a21a7eb)
+![2-5](https://github.com/user-attachments/assets/512b25d1-a421-473e-8c74-03defc2bc61c)
+![2-6](https://github.com/user-attachments/assets/006889f7-17e7-4cbd-b2a2-0166d3ee201e)
 
 
 ### 결론
